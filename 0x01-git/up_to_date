@@ -1,3 +1,11 @@
+cd alx-pre_course
+git pull
+git branch
 cd 0x01-git
 touch up_to_date
-
+vi  up_to_date
+git config --global user.email "110352192+M6A2R5Y@users.noreply.github.com"
+git config --global user.name "	M6A2R5Y"
+git add .
+git commit -m "How to be up to date in git"
+git push
